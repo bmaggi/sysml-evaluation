@@ -10,10 +10,11 @@ It's mostly on the quality of the SysML.xmi file.
 sbt test
 ```
 
-OMG Proposal:
-SYSMLR-236 : Derived attribute should also be read only
-SYSMLR-238 : Missing comment for some attributes
+Proposition in [OMG JIRA][3]:
+- SYSMLR-236 : Derived attribute should also be read only
+- SYSMLR-238 : Missing comment for some attributes
 
 [1]:http://www.scala-sbt.org/
 [2]:http://www.scala-lang.org/
+[3]:http://issues.omg.org/issues/lists/sysml-rtf
 
